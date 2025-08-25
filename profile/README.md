@@ -2,6 +2,8 @@
 
 Open-source software and documents from [the Nagayama Moonshot project SNIQ](https://sniq.org/), part of the [Japan Science and Technology Agency's Moonshot goal 6: realization of a fault-tolerant universal quantum computer](https://www.jst.go.jp/moonshot/en/index.html).
 
+Many of the contributors here are also members of the [AQUA research group](https://aqua.sfc.wide.ad.jp/) at [Keio University's Shonan Fujisawa Campus](https://www.sfc.keio.ac.jp/en/). [AQUA's GitHub organization](https://github.com/sfc-aqua/) contains more software, including [QuISP](https://github.com/sfc-aqua/quisp), a quantum network simulator.
+
 ## Software
 
 * [PnPQ](https://github.com/moonshot-nagayama-pj/PnPQ): Python library for laboratory devices often used in quantum networking and computing testbeds, including common Thorlabs and OzOptics products.
