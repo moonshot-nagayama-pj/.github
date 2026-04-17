@@ -11,6 +11,8 @@ Many of the contributors here are also members of the [AQUA research group](http
 
 ## Documents
 
-* [public-documents](https://github.com/moonshot-nagayama-pj/public-documents): Research and engineering documents, including:
-    - [Timing Regimes in Quantum Networks](https://github.com/moonshot-nagayama-pj/public-documents/tree/main/timing-regimes): Exploring timing requirements for quantum networks from first principles.
+* [public-documents](https://github.com/moonshot-nagayama-pj/public-documents): Research and engineering documents produced by the group, including:
+    - Links to IRTF Internet-Drafts such as:
+        + [Timing Regimes in Quantum Networks and their Physical Underpinnings](https://github.com/moonshot-nagayama-pj/draft-hajdusek-qirg-timing-physics)
+        + [A Quantum Network Architecture](https://github.com/moonshot-nagayama-pj/draft-van-meter-qirg-quantum-network-architecture)
     - Engineering process documents to govern our open-source projects and help other projects improve their open-source practices.
